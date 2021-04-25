@@ -10,29 +10,6 @@ This web app has similar user interface like **NETFLIX**. The main reason behind
 
 
 
-some photos of my webapp
-
-**Home Page.**
-![Image description](https://github.com/mehulsatardekar/movie-streaming-webapp/blob/master/pics/2.png)
-
-![Image description](https://github.com/mehulsatardekar/movie-streaming-webapp/blob/master/pics/3.png)
-
-<img src="https://github.com/mehulsatardekar/movie-streaming-webapp/blob/master/pics/4.png" width="100%" height="400" />
-
-**Movies page. (searching algo implementation)**
-<img src="https://github.com/mehulsatardekar/movie-streaming-webapp/blob/master/pics/6.png" width="100%" height="400" />
-
-**Movies-review page.**
-<img src="https://github.com/mehulsatardekar/movie-streaming-webapp/blob/master/pics/8.png" width="100%" height="400" />
-
-**Search movies & series page.(tries DS implementation)**
-<img src="https://github.com/mehulsatardekar/movie-streaming-webapp/blob/master/pics/9.png" width="100%" height="400" />
-
-**Tv shows page**
-<img src="https://github.com/mehulsatardekar/movie-streaming-webapp/blob/master/pics/10.png" width="100%" height="400" />
-
-
-
 
 
 
