@@ -1,14 +1,12 @@
 
 
 
-##  Netflix    [![Netlify Status](https://api.netlify.com/api/v1/badges/a468f9ab-dcf5-48c0-8470-9845f0898f73/deploy-status)](https://app.netlify.com/sites/netflix-meghsohor/deploys)
-
+##  Naviflix    
 
 
 ###  Powered by React & Firebase
 
-####  Live: https://netflix-meghsohor.netlify.app/
-##### Login - Email: _shuvo@mail.com_ | Password: _123456_
+
 
 ####  Huge thanks to [Karl Hadwen](https://github.com/karlhadwen) for his great tutorial on YouTube: [Link](https://www.youtube.com/watch?v=x_EEwGe-a9o)
 
@@ -67,28 +65,3 @@
 
   
 
-####  ScreenShots:
-
-  
-
-####  Home:
-
-![Netflix - homepage](https://raw.githubusercontent.com/meghsohor/netflix-react/master/public/images/screenshots/home.jpg)
-
-  
-
-####  Browse
-
-![Netflix -Browse](https://raw.githubusercontent.com/meghsohor/netflix-react/master/public/images/screenshots/browse.jpg)
-
-  
-
-####  Sign In
-
-![Netflix - Sign In](https://raw.githubusercontent.com/meghsohor/netflix-react/master/public/images/screenshots/signin.jpg)
-
-  
-
-####  Sign Up
-
-![Netflix - Sign Up](https://raw.githubusercontent.com/meghsohor/netflix-react/master/public/images/screenshots/signup.jpg)
